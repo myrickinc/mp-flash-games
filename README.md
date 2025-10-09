@@ -4,7 +4,7 @@
 
 # WELCOME TO THE MYRICK PLANET OFFICIAL FLASH GAMES GITHUB
 
-On this strawpage you can find flash games that are hosted here on this github
+On this [strawpage](https://myrick.straw.page/) you can find flash games that are hosted here on this github
 
 
 ## Ruffle Credit
