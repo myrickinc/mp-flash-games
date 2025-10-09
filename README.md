@@ -4,10 +4,10 @@
 
 # WELCOME TO THE MYRICK PLANET OFFICIAL FLASH GAMES GITHUB
 
-A short description of your project goes here.  
-Explain what it does, why it’s useful, and how to get started.
+On this strawpage you can find flash games that are hosted here on this github
 
-## Installation
+
+## Ruffle Credit
 
 ```bash
 git clone https://github.com/yourusername/your-repo.git
