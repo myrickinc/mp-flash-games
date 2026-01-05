@@ -2,7 +2,7 @@
 On this [strawpage](https://myrick.straw.page/) you can find flash games that are hosted here on this github.\
 That's pretty much it. If you want FLA's of any of these games - they are also archived here.
 ## PROJECT CREDITS
-- myrick_77 (artist and programmer)\
+- myrick_77 (artist and programmer)
 - [hordy17](https://www.youtube.com/@hordy17) (composer for NVICI)
 ## RUFFLE CREDITS
 This project uses [Ruffle](https://ruffle.rs/), an open-source Flash Player emulator.  
